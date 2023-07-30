@@ -6,19 +6,19 @@
 
 ## Key Features
 
-- **Data Visualization:** Utilize interactive charts, graphs, and tables to display essential metrics related to insurance claims, such as claim frequency, claim amount distribution, and claim status breakdown.
+- [x] **Data Visualization:** Utilize interactive charts, graphs, and tables to display essential metrics related to insurance claims, such as claim frequency, claim amount distribution, and claim status breakdown.
 
-- **Filter and Search:** Easily filter and search through the claims data based on various criteria, including claim type, date range, customer demographics, and more.
+- [ ] **Filter and Search:** Easily filter and search through the claims data based on various criteria, including claim type, date range, customer demographics, and more.
 
-- **Geospatial Analysis:** Visualize claims on an interactive map, providing geographical insights to assess risk concentrations and potential hotspots.
+- [ ] **Geospatial Analysis:** Visualize claims on an interactive map, providing geographical insights to assess risk concentrations and potential hotspots.
 
-- **Trend Analysis:** Identify patterns and trends in claim submissions, enabling insurers to respond proactively to emerging issues.
+- [ ] **Trend Analysis:** Identify patterns and trends in claim submissions, enabling insurers to respond proactively to emerging issues.
 
-- **Customer Segmentation:** Analyze claims based on customer profiles, helping identify high-value customers and potential risks.
+- [ ] **Customer Segmentation:** Analyze claims based on customer profiles, helping identify high-value customers and potential risks.
 
-- **User Authentication:** Ensure data security by implementing user authentication and access controls to restrict data viewing to authorized personnel only.
+- [ ] **User Authentication:** Ensure data security by implementing user authentication and access controls to restrict data viewing to authorized personnel only.
 
-- **Export and Reporting:** Generate customizable reports and export data for further analysis or regulatory compliance.
+- [ ] **Export and Reporting:** Generate customizable reports and export data for further analysis or regulatory compliance.
 
 ## Getting Started
 
