@@ -1,6 +1,6 @@
 # InsureViz: An Insurance Claims Dashboard
 
-<img src="assets/logo.png" alt="InsureViz Logo" width="1000" height="200" />
+<img src="assets/insureviz_logo.png" alt="InsureViz Logo" />
 
 "InsureViz" is a comprehensive and user-friendly insurance claims dashboard developed using R and RShiny. The purpose of this web application is to provide valuable insights into the claims made by customers of an insurance company. With its powerful features, it offers real-time, visual representation of insurance claims data, empowering insurers and stakeholders to analyze and monitor claim patterns, identify trends, and make data-driven decisions.
 
